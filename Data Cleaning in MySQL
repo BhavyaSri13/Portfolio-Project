@@ -1,5 +1,10 @@
 -- DATA CLEANING PROCESS
 
+-- 1. Removing Duplicates
+-- 2. Standardize data
+-- 3. look at the Null Values or blank values
+-- 4. Remove any columns/rows unnecessary
+
 -- Step 1: View the raw data
 SELECT * 
 FROM layoffs;
